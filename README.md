@@ -1,11 +1,11 @@
 # CallingWebApi
 <br/>
 <p align="center">
-  <a href="https://github.com/dzhan_rafetov/CallingWebApi">
+  <a href="https://openweathermap.org">
     <img src="https://www.dataiku.com/wp-content/uploads/2020/04/OpenWeather.png" alt="Logo" width="502" height="202">
   </a>
 
-  <h3 align="center">Calling Web API from  <a href "https://openweathermap.org"> OpenWeatherMap.com </a> </h3>
+<h3 align="center">Calling Web API from <a href="https://openweathermap.org">OpenWeatherMap.com</a></h3>
 
   <p align="center">
   Calling OpenWeatherMap API with RestTemplate for Current Weather and Suggesting Activities
